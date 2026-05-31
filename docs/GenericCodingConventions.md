@@ -1,17 +1,18 @@
 # Generic Coding Conventions
 
-This document covers general coding conventions relevant to all programming languages.
+This document covers generic coding conventions that are relevant to all
+programming languages.
 
-## Scope
+For language-specific conventions (e.g. Python, Java), refer to the
+other markdown files in this folder.
 
-These guidelines are language-agnostic and can be applied to maintain code quality, consistency, and readability.
+Code should be easily readable and understandable by humans. Use
+appropriate comments so that the code is readable by human
+developers. Use comments to explain the "why", not the "how". If there
+is tricky logic, provide clear comments on why it is needed.
 
-## Sample Points (Add More As Needed)
+Keep functions and methods small and focused on a single
+responsibility.
 
-- Use consistent indentation (prefer spaces over tabs, or vice versa) across all codebases.
-- Keep functions and methods small and focused on a single responsibility.
-- Use meaningful names for variables, functions, classes, etc.
-- Document your code using comments as needed, preserving clarity.
-- Adhere to version control best practices (frequent small commits, meaningful commit messages, etc.).
-
-For language-specific conventions (e.g. Python, Java), refer to the other markdown files in this folder.
+Keep your commits and pull requests small. Commit and push frequently
+to development branches.
