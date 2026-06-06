@@ -62,4 +62,4 @@ discretion. If a Python file is mostly a wrapper around library
 functionality, don't try to create complex tests and mocking to try to
 increase coverage.
 
-Balance test coverage with speed of running the tests.
+Balance test coverage with the time taken to run the tests.
