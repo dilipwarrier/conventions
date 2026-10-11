@@ -21,5 +21,16 @@ example, one string can use another string as a prefix, then prefer
 that rather than repeating the characters in the string in both
 places.
 
+For all commits, create an issue in the appropriate issue repository
+first. The issue repository could be Jira or GitHub or something
+similar. If you cannot find a link to the associated repository, ask
+the user.
+
+After creating the issue, create a branch for the issue and
+commit all your changes in the branch. When the work is complete,
+create a pull request to merge the branch into the main development
+branch. When the pull request is completed, close the associated issue
+with descriptive comments and links to the pull request.
+
 Keep your commits and pull requests small. Commit and push frequently
-to development branches.
+to the development branch.
