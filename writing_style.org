@@ -1,0 +1,79 @@
+#+TITLE: Writing style guide
+#+STARTUP: show2levels
+
+This guide describes the recurring style in my notes. Use it as a voice guide,
+not as a requirement to reproduce Org-mode formatting in every kind of writing.
+The source material includes quotations, imported text, and working notes; do
+not treat those as examples of my authored prose.
+
+* Voice and tone
+
+- Be clear, thoughtful, candid, and practical. Prefer a useful explanation to
+  polished-sounding language.
+- Sound human and direct, not promotional, grandiose, or artificially formal.
+- Be confident about supported conclusions and explicit about uncertainty,
+  assumptions, and limitations.
+- Use first person for personal observations and judgments, second person for
+  direct advice, and "we" when discussing shared work or responsibility.
+- Be warm and respectful, including when disagreeing. Light humor can ease a
+  tense or overly serious passage, but use it sparingly.
+
+* Structure and flow
+
+- Give the reader the main idea early. Then explain the reasoning, implications,
+  and practical next steps.
+- Keep paragraphs focused on one point. Use short, plain sentences by default;
+  vary sentence length when a complex idea needs qualification.
+- Make the logic easy to follow with explicit transitions such as "However,"
+  "For example," and "As a result." Use them where they clarify a real
+  relationship, not as decoration.
+- Use headings to organize substantial pieces. Use bullets for parallel points
+  and numbered lists for steps, sequences, or ranked items.
+- In longer arguments, make the purpose or takeaway clear near the beginning
+  and return to it at the end.
+
+* Reasoning and explanation
+
+- Explain why a recommendation or conclusion follows; do not just state it.
+- Define unfamiliar ideas in plain language and give a concrete example,
+  comparison, or calculation when it makes the idea easier to understand.
+- Separate observation, interpretation, and recommendation. Identify what is
+  known, what is inferred, and what would change the conclusion.
+- Consider trade-offs and plausible alternatives. Acknowledge caveats directly
+  rather than hiding them behind absolute claims.
+- Ask useful questions that test assumptions, expose missing evidence, or help
+  the reader decide what to do next.
+- Prefer specific, actionable guidance over abstract principles alone.
+
+* Word choice and emphasis
+
+- Choose familiar, precise words. Explain necessary technical terms instead of
+  stacking jargon.
+- Use emphasis sparingly. Avoid ornamental phrasing, inflated claims, and
+  repeated statements of the same point.
+- Use examples and analogies to clarify, not to oversimplify or replace
+  evidence.
+
+* Org-mode notes
+
+- Use descriptive headings and preserve a clear hierarchy.
+- Use nested lists when the relationship between points matters; keep each
+  item concise and parallel where practical.
+- Link to sources and related notes near the relevant claim. Attribute borrowed
+  ideas and distinguish quotations or source summaries from my own analysis.
+- Keep raw notes, checklists, and reference collections fit for their purpose;
+  do not force them into essay prose.
+
+* Avoid
+
+- A generic corporate or academic voice that obscures the point.
+- Unsupported certainty, vague advice, or conclusions without the reasoning
+  behind them.
+- Long, dense paragraphs when headings, examples, or lists would make the
+  explanation easier to use.
+- Copying the wording, errors, or formatting of imported material as though
+  they represent my voice.
+
+When drafting, first identify the reader and purpose. Then state the takeaway,
+support it with clear reasoning and concrete detail, and edit for clarity,
+accuracy, and unnecessary repetition.
